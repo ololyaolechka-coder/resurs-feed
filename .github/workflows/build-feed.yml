@@ -1,0 +1,31 @@
+name: Build RESURS feed
+
+on:
+  schedule:
+    - cron: "17 3 * * *"   # каждый день в 06:17 по Москве
+  workflow_dispatch:        # ручной запуск кнопкой Run workflow
+  push:
+    paths:
+      - "build_feed.py"
+      - "title_overrides.csv"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Build feed
+        run: python build_feed.py
+      - name: Commit feed
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add feed.xml long_titles.csv
+          git diff --cached --quiet || git commit -m "Обновление фида $(date -u +'%Y-%m-%d %H:%M')"
+          git push
