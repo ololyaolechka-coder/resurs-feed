@@ -34,9 +34,13 @@ from xml.sax.saxutils import escape
 # ============================ НАСТРОЙКИ ============================
 
 SITE = "https://resursstore.com"
-SHOP_NAME = "RESURS"
-COMPANY = "RESURS"
-VENDOR = "RESURS"
+BRAND = "РЕСУРС"
+SHOP_NAME = BRAND
+COMPANY = BRAND
+VENDOR = BRAND
+
+# Замены в названиях товаров (применяются ко всем заголовкам)
+TITLE_REPLACE = {"RESURS": BRAND}
 CURRENCY = "RUB"
 
 # Одинаковое описание для всех товаров и страниц каталога
@@ -48,24 +52,26 @@ TITLE_LIMIT = 56
 # Сколько фото отдавать на товар и на страницу каталога (Директ рекомендует до 5)
 MAX_PICTURES = 5
 
-# Страницы каталога = коллекции в фиде.
-# id — латиницей (до 60 символов), name — заголовок объявления страницы каталога
-# (до 56 символов), url — страница на сайте.
+# Страницы каталога.
+# id — латиницей (до 60 символов); category — название категории в фиде;
+# name — заголовок объявления страницы каталога (до 56 символов); url — страница на сайте.
+# collection: True  — страница попадает в фид как страница каталога (<collection>);
+#             False — раздел только используется для сбора товаров, в рекламу не идёт.
 # Порядок важен: первый подходящий раздел станет основной категорией товара.
 CATALOG_PAGES = [
-    {"id": "earrings",  "name": "Серьги",      "url": "/catalog/Earrings"},
-    {"id": "chokers",   "name": "Чокеры",      "url": "/catalog/chokers"},
-    {"id": "chains",    "name": "Подвесы",     "url": "/catalog/Chains"},
-    {"id": "bracelets", "name": "Браслеты",    "url": "/catalog/Bracelets"},
-    {"id": "rings",     "name": "Кольца",      "url": "/catalog/rings"},
-    {"id": "cuffs",     "name": "Каффы",       "url": "/catalog/Cuffs"},
-    {"id": "anklets",   "name": "Анклеты",     "url": "/catalog/anklets"},
-    {"id": "stones",    "name": "Камни",       "url": "/catalog/stones"},
-    {"id": "charms",    "name": "Обвесы",      "url": "/catalog/charms"},
-    {"id": "sets",      "name": "Сеты",        "url": "/catalog/sets"},
-    {"id": "for-him",   "name": "Для него",    "url": "/catalog/for-him"},
-    # Общая страница каталога — последней, чтобы не перебивать основную категорию
-    {"id": "all",       "name": "Все украшения RESURS", "url": "/catalog"},
+    {"id": "earrings",  "category": "Серьги",   "name": "Серьги РЕСУРС",   "url": "/catalog/Earrings",  "collection": True},
+    {"id": "chokers",   "category": "Чокеры",   "name": "Чокеры РЕСУРС",   "url": "/catalog/chokers",   "collection": True},
+    {"id": "chains",    "category": "Подвесы",  "name": "Подвесы РЕСУРС",  "url": "/catalog/Chains",    "collection": True},
+    {"id": "bracelets", "category": "Браслеты", "name": "Браслеты РЕСУРС", "url": "/catalog/Bracelets", "collection": True},
+    {"id": "rings",     "category": "Кольца",   "name": "Кольца РЕСУРС",   "url": "/catalog/rings",     "collection": True},
+    {"id": "cuffs",     "category": "Каффы",    "name": "Каффы РЕСУРС",    "url": "/catalog/Cuffs",     "collection": True},
+    {"id": "anklets",   "category": "Анклеты",  "name": "Анклеты РЕСУРС",  "url": "/catalog/anklets",   "collection": True},
+    {"id": "charms",    "category": "Обвесы",   "name": "Обвесы РЕСУРС",   "url": "/catalog/charms",    "collection": True},
+    {"id": "for-him",   "category": "Для него", "name": "Украшения для него РЕСУРС", "url": "/catalog/for-him", "collection": True},
+    # Ниже — разделы без страницы каталога в рекламе: товары из них в фиде остаются
+    {"id": "stones",    "category": "Камни",    "name": "Камни РЕСУРС",    "url": "/catalog/stones",    "collection": False},
+    {"id": "sets",      "category": "Сеты",     "name": "Сеты РЕСУРС",     "url": "/catalog/sets",      "collection": False},
+    {"id": "all",       "category": "",         "name": "Все украшения",   "url": "/catalog",           "collection": False},
 ]
 
 # Если на какой-то странице скрипт не найдёт блок магазина автоматически,
@@ -187,6 +193,14 @@ def clean_text(s):
     s = re.sub(r"<[^>]+>", " ", s or "")
     s = s.replace("&nbsp;", " ").replace(" ", " ")
     return re.sub(r"\s+", " ", s).strip()
+
+
+def normalize_title(t):
+    """RESURS -> РЕСУРС; латинские слова капсом (BOLD, LIGHT, MEDIUM) -> строчными,
+    Директ не пропускает капс, кроме аббревиатур. Однобуквенные размеры (M, L) не трогаем."""
+    for a, b in TITLE_REPLACE.items():
+        t = t.replace(a, b)
+    return re.sub(r"\b[A-Z]{3,}\b", lambda m: m.group(0).lower(), t)
 
 
 def product_prices(p):
@@ -319,7 +333,9 @@ def build():
     offers, membership, first_url, coll_pics, problems = collect()
     by_uid, by_title = load_overrides()
 
-    cat_ids = {page["id"]: i + 2 for i, page in enumerate(CATALOG_PAGES)}  # 1 = корень
+    cat_pages = [p for p in CATALOG_PAGES if p.get("category")]
+    cat_ids = {page["id"]: i + 2 for i, page in enumerate(cat_pages)}  # 1 = корень
+    coll_pages = {p["id"] for p in CATALOG_PAGES if p.get("collection")}
     order = [page["id"] for page in CATALOG_PAGES]
     active_colls = {c for cs in membership.values() for c in cs}
 
@@ -341,13 +357,14 @@ def build():
             continue
         pics = product_pictures(p)
 
-        title = by_uid.get(uid) or by_title.get(site_title.lower()) or site_title
+        title = normalize_title(by_uid.get(uid) or by_title.get(site_title.lower()) or site_title)
         if len(title) > TITLE_LIMIT:
-            long_titles.append((uid, site_title, len(site_title), url))
+            long_titles.append((uid, site_title, len(title), url))
 
-        colls = sorted(membership.get(uid, []), key=order.index)
-        main = next((c for c in colls if c != "all"), None)
+        sections = sorted(membership.get(uid, []), key=order.index)
+        main = next((c for c in sections if c in cat_ids), None)
         cat = cat_ids[main] if main else 1
+        colls = [c for c in sections if c in coll_pages]
 
         if old:
             sale_count += 1
@@ -368,16 +385,14 @@ def build():
 
     # категории
     cats_xml = ['    <category id="1">Украшения</category>']
-    for page in CATALOG_PAGES:
-        if page["id"] == "all":
-            continue
-        cats_xml.append(f'    <category id="{cat_ids[page["id"]]}" parentId="1">{escape(page["name"])}</category>')
+    for page in cat_pages:
+        cats_xml.append(f'    <category id="{cat_ids[page["id"]]}" parentId="1">{escape(page["category"])}</category>')
 
     # коллекции = страницы каталога
     colls_xml = []
     for page in CATALOG_PAGES:
         cid = page["id"]
-        if cid not in active_colls:
+        if cid not in coll_pages or cid not in active_colls:
             continue
         if len(page["name"]) > TITLE_LIMIT:
             problems.append(f"Название страницы каталога длиннее {TITLE_LIMIT}: {page['name']}")
