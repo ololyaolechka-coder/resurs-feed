@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-11-26 07:17">
+<yml_catalog date="2026-11-27 07:21">
   <shop>
     <name>РЕСУРС</name>
     <company>РЕСУРС</company>
@@ -26,7 +26,7 @@
         <name>Серьги со звездой</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/tproduct/851148162-388782040572-sergi-so-zvezdoi</url>
-        <price>2810</price>
+        <price>2760</price>
         <oldprice>4600</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>2</categoryId>
@@ -42,7 +42,7 @@
         <name>Серьги со звездой</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/tproduct/851148162-297291113482-sergi-so-zvezdoi</url>
-        <price>2990</price>
+        <price>2760</price>
         <oldprice>4600</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>2</categoryId>
@@ -104,7 +104,7 @@
         <name>Серьги с розовым кварцем</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/earrings/tproduct/851150777-727405383793-sergi-s-rozovim-kvartsem</url>
-        <price>4400</price>
+        <price>2940</price>
         <oldprice>4900</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>2</categoryId>
@@ -120,7 +120,7 @@
         <name>Серьги с фианитами</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/earrings/tproduct/851150777-965544265143-sergi-s-fianitami</url>
-        <price>6200</price>
+        <price>5520</price>
         <oldprice>6900</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>2</categoryId>
@@ -152,7 +152,7 @@
         <name>Серьги с подвесными сферами</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/earrings/tproduct/851150777-526681876372-sergi-s-podvesnimi-sferami</url>
-        <price>3270</price>
+        <price>3060</price>
         <oldprice>5100</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>2</categoryId>
@@ -168,7 +168,7 @@
         <name>Серьги с крупным жемчугом</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/tproduct/851148162-362126065742-sergi-s-krupnim-zhemchugom</url>
-        <price>4860</price>
+        <price>3780</price>
         <oldprice>5400</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>2</categoryId>
@@ -184,7 +184,8 @@
         <name>Серьги с жемчугом со стальными вставками</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/earrings/tproduct/851150777-637086608883-sergi-s-zhemchugom-so-stalnimi-vstavkami</url>
-        <price>5400</price>
+        <price>3240</price>
+        <oldprice>5400</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>2</categoryId>
         <picture>https://static.tildacdn.com/stor3862-3434-4139-a330-323662393662/aebd07c0aa58ae286e24a7216054baad.jpg</picture>
@@ -215,7 +216,7 @@
         <name>Серьги с гладкой цепью на подвеске</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/earrings/tproduct/851150777-535254081503-sergi-s-gladkoi-tsepyu-na-podveske</url>
-        <price>4530</price>
+        <price>2940</price>
         <oldprice>4900</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>2</categoryId>
@@ -247,7 +248,7 @@
         <name>Моносерьга с жемчужной дорожкой и цепями</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/earrings/tproduct/851150777-655136906891-monoserga-s-zhemchuzhnoi-dorozhkoi-i-tse</url>
-        <price>3970</price>
+        <price>3850</price>
         <oldprice>5500</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>2</categoryId>
@@ -279,7 +280,8 @@
         <name>Асимметричные серьги</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/earrings/tproduct/851150777-198228098203-asimmetrichnie-sergi</url>
-        <price>4900</price>
+        <price>4410</price>
+        <oldprice>4900</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>2</categoryId>
         <picture>https://static.tildacdn.com/stor6164-3061-4239-b937-623661356462/ed031f659b740c475a67af6ee2f9e5f8.jpg</picture>
@@ -294,7 +296,7 @@
         <name>Серьги с графичными подвесками</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/tproduct/851148162-328066173782-sergi-s-grafichnimi-podveskami</url>
-        <price>3980</price>
+        <price>3570</price>
         <oldprice>5100</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>2</categoryId>
@@ -310,15 +312,15 @@
         <name>Серьги асимметричные со съемными подвесками</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/earrings/tproduct/851150777-428768368181-sergi-asimmetrichnie-so-semnimi-podveska</url>
-        <price>3520</price>
+        <price>3060</price>
         <oldprice>5100</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>2</categoryId>
-        <picture>https://static.tildacdn.com/stor3936-6565-4462-a662-306336656433/50211822.png</picture>
+        <picture>https://static.tildacdn.com/stor3662-6436-4163-b266-396663383262/6342eed90a82e0e46648f87de192d7f9.jpg</picture>
         <picture>https://static.tildacdn.com/stor3633-6564-4061-b461-303133323434/57775949.png</picture>
         <picture>https://static.tildacdn.com/stor3862-3663-4363-b732-343837623764/35666865.png</picture>
         <picture>https://static.tildacdn.com/stor3339-3463-4263-b137-636631653864/85211531.png</picture>
-        <picture>https://static.tildacdn.com/stor3461-3962-4239-b636-336361373236/76959731.jpg</picture>
+        <picture>https://static.tildacdn.com/stor6137-3933-4864-b436-383936376633/38253143e2d71390be6b2735eda9a7d2.jpg</picture>
         <description>Украшения для тех, кто выбирает свободу быть собой</description>
         <collectionId>earrings</collectionId>
       </offer>
@@ -340,7 +342,7 @@
         <name>Серьги со стальными каплями</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/earrings/tproduct/851150777-772812927782-sergi-so-stalnimi-kaplyami</url>
-        <price>3140</price>
+        <price>3010</price>
         <oldprice>4300</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>2</categoryId>
@@ -356,7 +358,7 @@
         <name>Серьги с рисовидным жемчугом</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/earrings/tproduct/851150777-768566770243-sergi-s-risovidnim-zhemchugom</url>
-        <price>3840</price>
+        <price>3010</price>
         <oldprice>4300</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>2</categoryId>
@@ -372,7 +374,7 @@
         <name>Серьги-пусеты с крупным жемчугом</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/tproduct/851148162-545148880962-sergi-puseti-s-krupnim-zhemchugom</url>
-        <price>4630</price>
+        <price>3720</price>
         <oldprice>6200</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>2</categoryId>
@@ -404,7 +406,7 @@
         <name>Серьги-пусеты с шарами разного диаметра</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/earrings/tproduct/851150777-821529915562-sergi-puseti-s-sharami-raznogo-diametra</url>
-        <price>3220</price>
+        <price>2880</price>
         <oldprice>4800</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>2</categoryId>
@@ -420,7 +422,7 @@
         <name>Серьги со снеговиком</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/earrings/tproduct/851150777-196650147952-sergi-so-snegovikom</url>
-        <price>4980</price>
+        <price>3950</price>
         <oldprice>7900</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>2</categoryId>
@@ -436,7 +438,7 @@
         <name>Серьги с подвеской из дымчатого кварца</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/earrings/tproduct/851150777-607036044202-sergi-s-podveskoi-iz-dimchatogo-kvartsa</url>
-        <price>3600</price>
+        <price>3100</price>
         <oldprice>6200</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>2</categoryId>
@@ -579,7 +581,7 @@
         <name>Серьги с циркулярами</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/earrings/tproduct/851150777-934541374092-sergi-s-tsirkulyarami</url>
-        <price>3220</price>
+        <price>3060</price>
         <oldprice>5100</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>2</categoryId>
@@ -595,7 +597,7 @@
         <name>Серьги с циркулярами</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/earrings/tproduct/851150777-131735678632-sergi-s-tsirkulyarami</url>
-        <price>3120</price>
+        <price>3060</price>
         <oldprice>5100</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>2</categoryId>
@@ -626,7 +628,7 @@
         <name>Серьги-пусеты с шарами на подвесках</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/earrings/tproduct/851150777-661192037103-sergi-puseti-s-sharami-na-podveskah</url>
-        <price>4400</price>
+        <price>3430</price>
         <oldprice>4900</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>2</categoryId>
@@ -658,7 +660,7 @@
         <name>Серьги со стальными битами</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/earrings/tproduct/851150777-428089738012-sergi-so-stalnimi-bitami</url>
-        <price>3470</price>
+        <price>3060</price>
         <oldprice>5100</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>2</categoryId>
@@ -674,7 +676,7 @@
         <name>Серьги со стальными битами</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/earrings/tproduct/851150777-942363398522-sergi-so-stalnimi-bitami</url>
-        <price>3830</price>
+        <price>3060</price>
         <oldprice>5100</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>2</categoryId>
@@ -722,7 +724,7 @@
         <name>Серьги с подвесками-шарами</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/earrings/tproduct/851150777-124089849751-sergi-s-podveskami-sharami</url>
-        <price>3040</price>
+        <price>2870</price>
         <oldprice>4100</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>2</categoryId>
@@ -770,7 +772,7 @@
         <name>Серьги с жемчужиной и шипом</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/tproduct/851148162-102466796241-sergi-s-zhemchuzhinoi-i-shipom</url>
-        <price>2960</price>
+        <price>2870</price>
         <oldprice>4100</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>2</categoryId>
@@ -802,7 +804,8 @@
         <name>Серьги с капельками</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/earrings/tproduct/851150777-938249073182-sergi-s-kapelkami</url>
-        <price>4100</price>
+        <price>2870</price>
+        <oldprice>4100</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>2</categoryId>
         <picture>https://static.tildacdn.com/stor3735-3065-4237-b331-383266313763/195a60cad1c9c1e2663e4ac5f5166dcb.jpg</picture>
@@ -815,7 +818,8 @@
         <name>Серьги с капельками</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/earrings/tproduct/851150777-299642813182-sergi-s-kapelkami</url>
-        <price>4100</price>
+        <price>2870</price>
+        <oldprice>4100</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>2</categoryId>
         <picture>https://static.tildacdn.com/stor6131-3031-4234-b365-356437643461/4122180cb8f99b3dda4c0457108c211c.jpg</picture>
@@ -857,7 +861,7 @@
         <description>Украшения для тех, кто выбирает свободу быть собой</description>
         <collectionId>chokers</collectionId>
       </offer>
-      <offer id="636972661483" available="true">
+      <offer id="636972661483" available="false">
         <name>Объемный чокер из стальных сфер light</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/chokers/tproduct/851148812-636972661483-obemnii-choker-iz-stalnih-sfer-light</url>
@@ -877,7 +881,7 @@
         <name>Чокер из красного агата</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/chokers/tproduct/851148812-160926584353-choker-iz-krasnogo-agata</url>
-        <price>6700</price>
+        <price>6060</price>
         <oldprice>10100</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>3</categoryId>
@@ -908,7 +912,7 @@
         <name>Чокер с шильдиками</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/chokers/tproduct/851148812-558561851582-choker-s-shildikami</url>
-        <price>12440</price>
+        <price>6800</price>
         <oldprice>13600</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>3</categoryId>
@@ -955,7 +959,7 @@
         <name>Сверхмассивная цепь с дымчатым кварцем</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/tproduct/851132158-359059098773-sverhmassivnaya-tsep-s-dimchatim-kvartse</url>
-        <price>14270</price>
+        <price>10750</price>
         <oldprice>21500</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>3</categoryId>
@@ -971,7 +975,7 @@
         <name>Чокер со вставкой из горного хрусталя</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/tproduct/851132158-586913935863-choker-so-vstavkoi-iz-gornogo-hrustalya</url>
-        <price>7960</price>
+        <price>5940</price>
         <oldprice>9900</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>3</categoryId>
@@ -987,7 +991,8 @@
         <name>Чокер со вставкой из дымчатого кварца</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/tproduct/851132158-818070429943-choker-so-vstavkoi-iz-dimchatogo-kvartsa</url>
-        <price>9900</price>
+        <price>5940</price>
+        <oldprice>9900</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>3</categoryId>
         <picture>https://static.tildacdn.com/stor3863-3731-4162-a665-343162643932/4d229ca8a7022d66dae8bd33f013c838.jpg</picture>
@@ -1043,7 +1048,7 @@
         <name>Чокер двойной со стальными сферами</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/chokers/tproduct/851148812-219627306872-choker-dvoinoi-so-stalnimi-sferami</url>
-        <price>8290</price>
+        <price>5600</price>
         <oldprice>11200</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>3</categoryId>
@@ -1075,7 +1080,7 @@
         <name>Чокер с провисом и подвесками</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/chokers/tproduct/851148812-722106667642-choker-s-provisom-i-podveskami</url>
-        <price>4650</price>
+        <price>3720</price>
         <oldprice>6200</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>3</categoryId>
@@ -1091,7 +1096,7 @@
         <name>Сверхмассивная цепь с золотистым медиатором</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/chokers/tproduct/851148812-100592112783-sverhmassivnaya-tsep-s-zolotistim-mediat</url>
-        <price>8300</price>
+        <price>6250</price>
         <oldprice>12500</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>3</categoryId>
@@ -1123,7 +1128,7 @@
         <name>Чокер из цепи с жемчужиной и асимметричной подвеской</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/tproduct/851148162-269724694362-choker-iz-gladkoi-tsepi-s-zhemchuzhinoi</url>
-        <price>4470</price>
+        <price>3100</price>
         <oldprice>6200</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>3</categoryId>
@@ -1140,7 +1145,8 @@
         <name>Чокер с барочной жемчужиной и асимметричной подвеской</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/chokers/tproduct/851148812-220778995392-choker-iz-gladkoi-tsepi-s-barochnoi-zhem</url>
-        <price>14200</price>
+        <price>7100</price>
+        <oldprice>14200</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>3</categoryId>
         <picture>https://static.tildacdn.com/stor3964-6135-4332-b633-316166346330/34958626.jpg</picture>
@@ -1154,7 +1160,7 @@
         <name>Чокер из серого жемчуга с провисом и цепью</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/tproduct/851132158-321522478693-choker-iz-serogo-zhemchuga-s-provisom-i</url>
-        <price>5500</price>
+        <price>3350</price>
         <oldprice>6700</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>3</categoryId>
@@ -1170,7 +1176,7 @@
         <name>Чокер из белого жемчуга на карабине</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/chokers/tproduct/851148812-935311004722-choker-iz-belogo-zhemchuga-na-karabine</url>
-        <price>6460</price>
+        <price>6060</price>
         <oldprice>10100</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>3</categoryId>
@@ -1217,7 +1223,7 @@
         <name>Чокер из розового жемчуга со стальными дисками</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/chokers/tproduct/851148812-318252424872-choker-iz-rozovogo-zhemchuga-so-stalnimi</url>
-        <price>6810</price>
+        <price>5050</price>
         <oldprice>10100</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>3</categoryId>
@@ -1233,7 +1239,7 @@
         <name>Чокер из темного жемчуга со стальными дисками</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/chokers/tproduct/851148812-664402220772-choker-iz-temnogo-zhemchuga-so-stalnimi</url>
-        <price>7900</price>
+        <price>7070</price>
         <oldprice>10100</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>3</categoryId>
@@ -1250,7 +1256,7 @@
         <name>Чокер со вставкой из оникса</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/tproduct/851132158-990880670553-choker-so-vstavkoi-iz-oniksa</url>
-        <price>6170</price>
+        <price>3400</price>
         <oldprice>6800</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>3</categoryId>
@@ -1281,7 +1287,7 @@
         <name>Чокер из гладкой цепи и белого жемчуга</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/tproduct/851148162-549357715342-choker-iz-gladkoi-tsepi-i-belogo-zhemchu</url>
-        <price>7300</price>
+        <price>4100</price>
         <oldprice>8200</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>3</categoryId>
@@ -1298,7 +1304,7 @@
         <name>Чокер из цепей разного плетения</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/chokers/tproduct/851148812-135858627641-choker-iz-tsepei-raznogo-pleteniya</url>
-        <price>3430</price>
+        <price>2940</price>
         <oldprice>4900</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>3</categoryId>
@@ -1314,7 +1320,7 @@
         <name>Чокер из гладкой цепи с жемчужиной</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/tproduct/851148162-767501725472-choker-iz-gladkoi-tsepi-s-zhemchuzhinoi</url>
-        <price>4160</price>
+        <price>3100</price>
         <oldprice>6200</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>3</categoryId>
@@ -1346,7 +1352,8 @@
         <name>Чокер из белого жемчуга со стальными дисками</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/chokers/tproduct/851148812-617784321861-choker-iz-belogo-zhemchuga-so-stalnimi-d</url>
-        <price>10100</price>
+        <price>5050</price>
+        <oldprice>10100</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>3</categoryId>
         <picture>https://static.tildacdn.com/stor3164-3062-4663-a566-353634623064/b259e9654ec61072a483ad6146ba70d0.jpg</picture>
@@ -1362,7 +1369,8 @@
         <name>Чокер из белого жемчуга с шипами</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/chokers/tproduct/851148812-556261523601-choker-iz-belogo-zhemchuga-s-shipami</url>
-        <price>11700</price>
+        <price>5850</price>
+        <oldprice>11700</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>3</categoryId>
         <picture>https://static.tildacdn.com/stor3736-6365-4239-a638-383134323634/11961659.png</picture>
@@ -1392,7 +1400,7 @@
         <name>Чокер из темного жемчуга с шипами</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/chokers/tproduct/851148812-119516741812-choker-iz-temnogo-zhemchuga-s-shipami</url>
-        <price>10330</price>
+        <price>5550</price>
         <oldprice>11100</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>3</categoryId>
@@ -1425,7 +1433,7 @@
         <name>Чокер из стальных сфер со стальными дисками</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/chokers/tproduct/851148812-282605130262-choker-iz-stalnih-sfer-so-stalnimi-diska</url>
-        <price>8210</price>
+        <price>5700</price>
         <oldprice>11400</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>3</categoryId>
@@ -1442,7 +1450,7 @@
         <name>Чокер из стальных сфер bold</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/chokers/tproduct/851148812-614485402182-choker-iz-stalnih-sfer-bold</url>
-        <price>7280</price>
+        <price>6420</price>
         <oldprice>10700</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>3</categoryId>
@@ -1458,7 +1466,7 @@
         <name>Чокер из стальных сфер medium</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/chokers/tproduct/851148812-185887337001-choker-iz-stalnih-sfer-medium</url>
-        <price>6400</price>
+        <price>4700</price>
         <oldprice>9400</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>3</categoryId>
@@ -1475,7 +1483,7 @@
         <name>Чокер из стальных сфер с шарами на кольцах</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/chokers/tproduct/851148812-125605664161-choker-iz-stalnih-sfer-s-sharami-na-kolt</url>
-        <price>6610</price>
+        <price>4650</price>
         <oldprice>9300</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>3</categoryId>
@@ -1491,7 +1499,7 @@
         <name>Чокер из стальных сфер light</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/chokers/tproduct/851148812-990584682542-choker-iz-stalnih-sfer-light</url>
-        <price>5250</price>
+        <price>3800</price>
         <oldprice>7600</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>3</categoryId>
@@ -1507,7 +1515,7 @@
         <name>Чокер из стальных сфер разного диаметра на кольцах</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/chokers/tproduct/851148812-474500573592-choker-iz-stalnih-sfer-raznogo-diametra</url>
-        <price>7460</price>
+        <price>5350</price>
         <oldprice>10700</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>3</categoryId>
@@ -1523,7 +1531,7 @@
         <name>Чокер из стальных сфер со стеклянными вставками</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/chokers/tproduct/851148812-953450012691-choker-iz-stalnih-sfer-so-steklyannimi-v</url>
-        <price>5980</price>
+        <price>4600</price>
         <oldprice>9200</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>3</categoryId>
@@ -1539,7 +1547,7 @@
         <name>Чокер из гладкой цепи с барочной жемчужиной</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/tproduct/851148162-797679384752-choker-iz-gladkoi-tsepi-s-barochnoi-zhem</url>
-        <price>16880</price>
+        <price>9500</price>
         <oldprice>19000</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>3</categoryId>
@@ -1569,7 +1577,7 @@
         <name>Цепь массивная на карабине</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/chokers/tproduct/851148812-599725848001-tsep-massivnaya-na-karabine</url>
-        <price>5640</price>
+        <price>4450</price>
         <oldprice>8900</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>3</categoryId>
@@ -1585,7 +1593,7 @@
         <name>Чокер из стеклянных бусин со стальными сферами</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/chokers/tproduct/851148812-330838599621-choker-iz-steklyannih-busin-so-stalnimi</url>
-        <price>3680</price>
+        <price>3060</price>
         <oldprice>5100</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>3</categoryId>
@@ -1601,7 +1609,7 @@
         <name>Чокер из жемчуга разного диаметра с шарами и кристаллами</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/chokers/tproduct/851148812-729706377281-choker-iz-zhemchuga-raznogo-diametra-s-s</url>
-        <price>9560</price>
+        <price>6950</price>
         <oldprice>13900</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>3</categoryId>
@@ -1617,7 +1625,8 @@
         <name>Жемчужный чокер с цепочками</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/chokers/tproduct/851148812-292545134361-zhemchuzhnii-choker-s-tsepochkami</url>
-        <price>16000</price>
+        <price>8000</price>
+        <oldprice>16000</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>3</categoryId>
         <picture>https://static.tildacdn.com/stor3337-3530-4033-a633-623334373332/86148412.png</picture>
@@ -1632,7 +1641,8 @@
         <name>Жемчужное колье с сердцем и цепью</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/tproduct/851148162-994570636891-zhemchuzhnoe-kole-s-serdtsem-i-tsepyu</url>
-        <price>9100</price>
+        <price>7280</price>
+        <oldprice>9100</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>3</categoryId>
         <picture>https://static.tildacdn.com/stor6132-3262-4735-b862-626461303261/35495648.jpg</picture>
@@ -1663,7 +1673,8 @@
         <name>Чокер из горного хрусталя</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/tproduct/851132158-992869759293-choker-iz-gornogo-hrustalya</url>
-        <price>29000</price>
+        <price>14500</price>
+        <oldprice>29000</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>3</categoryId>
         <picture>https://static.tildacdn.com/stor6664-6136-4932-a633-376538303937/d095a46fc05b548f162ca2d499acd359.jpg</picture>
@@ -1678,7 +1689,7 @@
         <name>Чокер из оникса</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/chokers/tproduct/851148812-601842461642-choker-iz-oniksa</url>
-        <price>8890</price>
+        <price>6060</price>
         <oldprice>10100</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>3</categoryId>
@@ -1694,7 +1705,7 @@
         <name>Биколорная цепь на карабине</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/chokers/tproduct/851148812-181693607902-bikolornaya-tsep-na-karabine</url>
-        <price>6400</price>
+        <price>4100</price>
         <oldprice>8200</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>3</categoryId>
@@ -1710,7 +1721,7 @@
         <name>Чокер из стальных дисков и золотых сфер</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/chokers/tproduct/851148812-283730989782-choker-iz-stalnih-diskov-i-zolotih-sfer</url>
-        <price>5400</price>
+        <price>3800</price>
         <oldprice>7600</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>3</categoryId>
@@ -1726,7 +1737,7 @@
         <name>Чокер из стальных сфер и золотых дисков</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/chokers/tproduct/851148812-711316927942-choker-iz-stalnih-sfer-i-zolotih-diskov</url>
-        <price>5150</price>
+        <price>3800</price>
         <oldprice>7600</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>3</categoryId>
@@ -1803,7 +1814,7 @@
         <name>Чокер двойной с кулоном и шаром</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/chokers/tproduct/851148812-810896169421-choker-dvoinoi-s-kulonom-i-sharom</url>
-        <price>3590</price>
+        <price>3120</price>
         <oldprice>5200</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>3</categoryId>
@@ -1930,7 +1941,7 @@
         <name>Цепь с алмазной гранью на карабине-лобстере</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/tproduct/851132158-564471097383-tsep-s-almaznoi-granyu-na-karabine-lobst</url>
-        <price>3610</price>
+        <price>3280</price>
         <oldprice>4100</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>3</categoryId>
@@ -1962,7 +1973,8 @@
         <name>Чокер из стальных сфер bold</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/tproduct/851132158-950499018153-choker-iz-stalnih-sfer-bold</url>
-        <price>10700</price>
+        <price>6420</price>
+        <oldprice>10700</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>3</categoryId>
         <picture>https://static.tildacdn.com/stor6433-6434-4261-b463-343739653739/d928494fb24ce21bbec0281ce5a4226c.jpg</picture>
@@ -1992,7 +2004,7 @@
         <name>Цепь с подвеской из горного хрусталя</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/chains/tproduct/851150237-810949759882-tsep-s-podveskoi-iz-gornogo-hrustalya</url>
-        <price>5530</price>
+        <price>3650</price>
         <oldprice>7300</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>4</categoryId>
@@ -2008,7 +2020,7 @@
         <name>Цепь с подвеской из дымчатого кварца</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/chains/tproduct/851150237-776033887372-tsep-s-podveskoi-iz-dimchatogo-kvartsa</url>
-        <price>5700</price>
+        <price>4380</price>
         <oldprice>7300</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>4</categoryId>
@@ -2025,7 +2037,7 @@
         <name>Неваляшка на замшевом шнурке</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/chains/tproduct/851150237-286092973722-nevalyashka-na-zamshevom-shnurke</url>
-        <price>6120</price>
+        <price>4250</price>
         <oldprice>8500</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>4</categoryId>
@@ -2041,7 +2053,7 @@
         <name>Цепь-змейка с полой сферой на подвеске bold</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/chains/tproduct/851150237-199743520783-tsep-zmeika-s-poloi-sferoi-na-podveske-b</url>
-        <price>5570</price>
+        <price>4760</price>
         <oldprice>6800</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>4</categoryId>
@@ -2057,7 +2069,7 @@
         <name>Гладкая цепь с фианитами на подвесках</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/chains/tproduct/851150237-802042904163-gladkaya-tsep-s-fianitami-na-podveskah</url>
-        <price>7620</price>
+        <price>6230</price>
         <oldprice>8900</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>4</categoryId>
@@ -2073,7 +2085,7 @@
         <name>Цепь с длинным цилиндром и кистью</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/chains/tproduct/851150237-800795911533-tsep-s-dlinnim-tsilindrom-i-kistyu</url>
-        <price>5450</price>
+        <price>4760</price>
         <oldprice>6800</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>4</categoryId>
@@ -2089,7 +2101,7 @@
         <name>Цепь-змейка с полой сферой на подвеске light</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/chains/tproduct/851150237-443467705163-tsep-zmeika-s-poloi-sferoi-na-podveske-l</url>
-        <price>5420</price>
+        <price>4760</price>
         <oldprice>6800</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>4</categoryId>
@@ -2120,7 +2132,7 @@
         <name>Цепь со снеговиком из горного хрусталя</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/chains/tproduct/851150237-465005560493-tsep-so-snegovikom-iz-gornogo-hrustalya</url>
-        <price>6450</price>
+        <price>5950</price>
         <oldprice>8500</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>4</categoryId>
@@ -2200,7 +2212,7 @@
         <name>Цепь со стальным бруском и кулоном</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/chains/tproduct/851150237-100934180752-tsep-so-stalnim-bruskom-i-kulonom</url>
-        <price>3460</price>
+        <price>3240</price>
         <oldprice>5400</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>4</categoryId>
@@ -2216,7 +2228,7 @@
         <name>Цепь с цилиндром и темной жемчужиной</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/chains/tproduct/851150237-927814785982-tsep-s-tsilindrom-i-temnoi-zhemchuzhinoi</url>
-        <price>3460</price>
+        <price>3240</price>
         <oldprice>5400</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>4</categoryId>
@@ -2232,7 +2244,7 @@
         <name>Цепь с цилиндром и жемчужиной</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/chains/tproduct/851150237-485831481722-tsep-s-tsilindrom-i-zhemchuzhinoi</url>
-        <price>3410</price>
+        <price>3240</price>
         <oldprice>5400</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>4</categoryId>
@@ -2248,7 +2260,7 @@
         <name>Цепь со стальным бруском и жемчужиной</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/chains/tproduct/851150237-505212526231-tsep-so-stalnim-bruskom-i-zhemchuzhinoi</url>
-        <price>3730</price>
+        <price>3240</price>
         <oldprice>5400</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>4</categoryId>
@@ -2280,7 +2292,7 @@
         <name>Кулон на замшевом шнурке</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/chains/tproduct/851150237-362777322292-kulon-na-zamshevom-shnurke</url>
-        <price>4560</price>
+        <price>3400</price>
         <oldprice>6800</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>4</categoryId>
@@ -2296,7 +2308,7 @@
         <name>Карабин на кожаном шнуре</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/chains/tproduct/851150237-997533333442-karabin-na-kozhanom-shnure</url>
-        <price>3130</price>
+        <price>3080</price>
         <oldprice>4400</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>4</categoryId>
@@ -2312,7 +2324,7 @@
         <name>Цепь с длинным цилиндром</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/chains/tproduct/851150237-247325416792-tsep-s-dlinnim-tsilindrom</url>
-        <price>3672</price>
+        <price>3240</price>
         <oldprice>5400</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>4</categoryId>
@@ -2328,7 +2340,7 @@
         <name>Цепь с длинным цилиндром и кварцем с титановым покрытием</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/chains/tproduct/851150237-856133158342-tsep-s-dlinnim-tsilindrom-i-kvartsem-s-t</url>
-        <price>4840</price>
+        <price>3900</price>
         <oldprice>7800</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>4</categoryId>
@@ -2361,7 +2373,7 @@
         <name>Цепь с подвеской из оникса со стальными сферами</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/chains/tproduct/851150237-357782029572-tsep-s-podveskoi-iz-oniksa-so-stalnimi-s</url>
-        <price>3620</price>
+        <price>3240</price>
         <oldprice>5400</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>4</categoryId>
@@ -2377,7 +2389,7 @@
         <name>Цепь с подвеской из ботсванского агата и стальных сфер</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/chains/tproduct/851150237-868395575762-tsep-s-podveskoi-iz-botsvanskogo-agata-s</url>
-        <price>3890</price>
+        <price>3240</price>
         <oldprice>5400</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>4</categoryId>
@@ -2393,7 +2405,7 @@
         <name>Цепь с подвеской из красного агата со стальными сферами</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/chains/tproduct/851150237-877834274502-tsep-s-podveskoi-iz-krasnogo-agata-so-st</url>
-        <price>3680</price>
+        <price>3240</price>
         <oldprice>5400</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>4</categoryId>
@@ -2425,7 +2437,7 @@
         <name>Цепь удлиненная со сквозным шаром</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/chains/tproduct/851150237-966725533352-tsep-udlinennaya-so-skvoznim-sharom</url>
-        <price>3340</price>
+        <price>2760</price>
         <oldprice>4600</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>4</categoryId>
@@ -2439,7 +2451,7 @@
         <name>Цепь удлиненная со сквозным шаром</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/chains/tproduct/851150237-608782138882-tsep-udlinennaya-so-skvoznim-sharom</url>
-        <price>2900</price>
+        <price>2760</price>
         <oldprice>4600</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>4</categoryId>
@@ -2455,7 +2467,7 @@
         <name>Цепь удлиненная со сквозным шаром</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/chains/tproduct/851150237-653979839112-tsep-udlinennaya-so-skvoznim-sharom</url>
-        <price>3040</price>
+        <price>2760</price>
         <oldprice>4600</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>4</categoryId>
@@ -2487,7 +2499,7 @@
         <name>Цепь со штангой и сферами разного диаметра</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/tproduct/851132158-399657024502-tsep-so-shtangoi-i-sferami-raznogo-diame</url>
-        <price>4800</price>
+        <price>3750</price>
         <oldprice>7500</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>4</categoryId>
@@ -2503,7 +2515,7 @@
         <name>Цепь с циркуляром</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/tproduct/851132158-181527903752-tsep-s-tsirkulyarom</url>
-        <price>5070</price>
+        <price>3900</price>
         <oldprice>7800</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>4</categoryId>
@@ -2515,7 +2527,7 @@
         <description>Украшения для тех, кто выбирает свободу быть собой</description>
         <collectionId>chains</collectionId>
       </offer>
-      <offer id="523773028432" available="false">
+      <offer id="523773028432" available="true">
         <name>Гладкая цепь с шаром на застежке</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/tproduct/851132158-523773028432-gladkaya-tsep-s-sharom-na-zastezhke</url>
@@ -2535,7 +2547,7 @@
         <name>Цепь с золотистым медиатором</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/chains/tproduct/851150237-593278522272-tsep-s-zolotistim-mediatorom</url>
-        <price>4900</price>
+        <price>3650</price>
         <oldprice>7300</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>4</categoryId>
@@ -2567,7 +2579,7 @@
         <name>Цепь с пухлым бубликом</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/chains/tproduct/851150237-492386930762-tsep-s-puhlim-bublikom</url>
-        <price>2900</price>
+        <price>2760</price>
         <oldprice>4600</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>4</categoryId>
@@ -2583,7 +2595,7 @@
         <name>Цепь с пухлым бубликом</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/chains/tproduct/851150237-364579758082-tsep-s-puhlim-bublikom</url>
-        <price>2990</price>
+        <price>2760</price>
         <oldprice>4600</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>4</categoryId>
@@ -2709,7 +2721,7 @@
         <name>Цепь удлиненная с двумя кулонами</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/chains/tproduct/851150237-519445818322-tsep-udlinennaya-s-dvumya-kulonami</url>
-        <price>3460</price>
+        <price>3240</price>
         <oldprice>5400</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>4</categoryId>
@@ -2725,7 +2737,7 @@
         <name>Цепь двойная со сквозной сферой</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/chains/tproduct/851150237-920825098603-tsep-dvoinaya-so-skvoznoi-sferoi</url>
-        <price>4850</price>
+        <price>3240</price>
         <oldprice>5400</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>4</categoryId>
@@ -2741,7 +2753,8 @@
         <name>Цепь с шаром из горного хрусталя</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/chains/tproduct/851150237-754016253432-tsep-s-sharom-iz-gornogo-hrustalya</url>
-        <price>6800</price>
+        <price>4080</price>
+        <oldprice>6800</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>4</categoryId>
         <picture>https://static.tildacdn.com/stor6239-3636-4464-b831-636334613963/cb64562c710a5621edfac7f5074d8e79.jpg</picture>
@@ -2756,7 +2769,7 @@
         <name>Цепь-змейка с объемной сферой</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/chains/tproduct/851150237-952426403132-tsep-zmeika-s-obemnoi-sferoi</url>
-        <price>4420</price>
+        <price>3400</price>
         <oldprice>6800</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>4</categoryId>
@@ -2772,7 +2785,7 @@
         <name>Цепь с двумя каплями</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/chains/tproduct/851150237-838293325222-tsep-s-dvumya-kaplyami</url>
-        <price>3680</price>
+        <price>3240</price>
         <oldprice>5400</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>4</categoryId>
@@ -2788,7 +2801,7 @@
         <name>Цепь с провисом, удлиненной подвеской и шарами</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/chains/tproduct/851150237-251700178671-tsep-s-provisom-udlinennoi-podveskoi-i-s</url>
-        <price>3840</price>
+        <price>2950</price>
         <oldprice>5900</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>4</categoryId>
@@ -2804,7 +2817,7 @@
         <name>Цепь с подвеской из зеленой яшмы</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/chains/tproduct/851150237-805393660482-tsep-s-podveskoi-iz-zelenoi-yashmi</url>
-        <price>3680</price>
+        <price>3240</price>
         <oldprice>5400</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>4</categoryId>
@@ -2820,7 +2833,7 @@
         <name>Цепь с подвеской из бежевой яшмы</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/chains/tproduct/851150237-541995511172-tsep-s-podveskoi-iz-bezhevoi-yashmi</url>
-        <price>3680</price>
+        <price>3240</price>
         <oldprice>5400</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>4</categoryId>
@@ -2899,7 +2912,7 @@
         <name>Цепь с подвеской из ботсванского агата и стальных сфер</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/chains/tproduct/851150237-955132189013-tsep-s-podveskoi-iz-botsvanskogo-agata-s</url>
-        <price>3740</price>
+        <price>3240</price>
         <oldprice>5400</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>4</categoryId>
@@ -2915,7 +2928,7 @@
         <name>Цепь с подвеской из красного агата со стальными сферами</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/chains/tproduct/851150237-673611719543-tsep-s-podveskoi-iz-krasnogo-agata-so-st</url>
-        <price>3930</price>
+        <price>3240</price>
         <oldprice>5400</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>4</categoryId>
@@ -2931,7 +2944,7 @@
         <name>Цепь с подвеской из оникса со стальными сферами</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/chains/tproduct/851150237-117749045823-tsep-s-podveskoi-iz-oniksa-so-stalnimi-s</url>
-        <price>4050</price>
+        <price>3240</price>
         <oldprice>5400</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>4</categoryId>
@@ -2947,7 +2960,7 @@
         <name>Цепь двойная тонкая с жемчужными вставками</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/chains/tproduct/851150237-834369899163-tsep-dvoinaya-tonkaya-s-zhemchuzhnimi-vs</url>
-        <price>8580</price>
+        <price>5150</price>
         <oldprice>10300</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>4</categoryId>
@@ -2963,7 +2976,7 @@
         <name>Сотуар из оникса разного диаметра</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/chains/tproduct/851150237-205755989783-sotuar-iz-oniksa-raznogo-diametra</url>
-        <price>8810</price>
+        <price>5850</price>
         <oldprice>11700</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>4</categoryId>
@@ -2979,7 +2992,7 @@
         <name>Цепь с провисом, удлиненной подвеской и шарами light</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/chains/tproduct/851150237-745064173163-tsep-s-provisom-udlinennoi-podveskoi-i-s</url>
-        <price>3910</price>
+        <price>2950</price>
         <oldprice>5900</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>4</categoryId>
@@ -3011,7 +3024,8 @@
         <name>Цепь с подвеской из стальных дисков разного диаметра</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/chains/tproduct/851150237-646182900983-tsep-s-podveskoi-iz-stalnih-diskov-razno</url>
-        <price>5400</price>
+        <price>4320</price>
+        <oldprice>5400</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>4</categoryId>
         <picture>https://static.tildacdn.com/stor3230-3062-4130-b061-303262653830/4fb73dfed5fa8b907f8f4e2ed80b8390.jpg</picture>
@@ -3053,7 +3067,7 @@
         <name>Браслет с шильдиками</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/bracelets/tproduct/851152725-560763662402-braslet-s-shildikami</url>
-        <price>6960</price>
+        <price>4700</price>
         <oldprice>9400</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>5</categoryId>
@@ -3086,7 +3100,7 @@
         <name>Браслет из стальных сфер bold</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/tproduct/851132158-861426385842-braslet-iz-stalnih-sfer-bold</url>
-        <price>4130</price>
+        <price>3540</price>
         <oldprice>5900</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>5</categoryId>
@@ -3102,7 +3116,8 @@
         <name>Браслет из стальных сфер bold</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/tproduct/851132158-631707637693-braslet-iz-stalnih-sfer-bold</url>
-        <price>5900</price>
+        <price>3540</price>
+        <oldprice>5900</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>5</categoryId>
         <picture>https://static.tildacdn.com/stor3662-3462-4464-b465-623763313363/6de962a46eb020c411dbc550cac0ebf3.jpg</picture>
@@ -3116,7 +3131,7 @@
         <name>Объемный браслет из стальных сфер light</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/bracelets/tproduct/851152725-350031796733-obemnii-braslet-iz-stalnih-sfer-light</url>
-        <price>6650</price>
+        <price>4750</price>
         <oldprice>9500</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>5</categoryId>
@@ -3148,7 +3163,7 @@
         <name>Браслет из гладкой цепи с фианитами на подвесках</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/bracelets/tproduct/851152725-700794931123-braslet-iz-gladkoi-tsepi-s-fianitami-na</url>
-        <price>5160</price>
+        <price>4830</price>
         <oldprice>6900</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>5</categoryId>
@@ -3164,7 +3179,7 @@
         <name>Браслет с провисом и двумя шильдиками</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/tproduct/851132158-286543560853-braslet-s-provisom-i-dvumya-shildikami</url>
-        <price>3910</price>
+        <price>2940</price>
         <oldprice>4900</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>5</categoryId>
@@ -3180,7 +3195,7 @@
         <name>Браслет из сверхмассивной цепи</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/tproduct/851132158-158238006273-braslet-iz-sverhmassivnoi-tsepi</url>
-        <price>6890</price>
+        <price>4250</price>
         <oldprice>8500</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>5</categoryId>
@@ -3196,7 +3211,7 @@
         <name>Браслет из сверхмассивной цепи с золотистым медиатором</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/tproduct/851132158-139410035923-braslet-iz-sverhmassivnoi-tsepi-s-zoloti</url>
-        <price>6300</price>
+        <price>5700</price>
         <oldprice>9500</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>5</categoryId>
@@ -3209,7 +3224,7 @@
         <name>Браслет со вставкой из горного хрусталя</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/tproduct/851132158-617498488783-braslet-so-vstavkoi-iz-gornogo-hrustalya</url>
-        <price>5250</price>
+        <price>4080</price>
         <oldprice>6800</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>5</categoryId>
@@ -3225,7 +3240,7 @@
         <name>Браслет со вставкой из дымчатого кварца</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/tproduct/851132158-776581482823-braslet-so-vstavkoi-iz-dimchatogo-kvarts</url>
-        <price>5280</price>
+        <price>4760</price>
         <oldprice>6800</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>5</categoryId>
@@ -3314,7 +3329,8 @@
         <name>Браслет из белого жемчуга с кулоном</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/bracelets/tproduct/851152725-997571458301-braslet-iz-belogo-zhemchuga-s-kulonom</url>
-        <price>6100</price>
+        <price>4270</price>
+        <oldprice>6100</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>5</categoryId>
         <picture>https://static.tildacdn.com/stor6336-3863-4962-a430-613830613835/cead4188709e748aff91b12b7145b140.jpg</picture>
@@ -3329,7 +3345,7 @@
         <name>Браслет из розового жемчуга с кулоном</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/tproduct/851132158-183962517992-braslet-iz-rozovogo-zhemchuga-s-kulonom</url>
-        <price>5490</price>
+        <price>4130</price>
         <oldprice>5900</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>5</categoryId>
@@ -3345,7 +3361,7 @@
         <name>Браслет на жесткой основе со стальными шарами M</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/bracelets/tproduct/851152725-158374585691-braslet-na-zhestkoi-osnove-so-stalnimi-s</url>
-        <price>5330</price>
+        <price>3750</price>
         <oldprice>7500</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>5</categoryId>
@@ -3361,7 +3377,7 @@
         <name>Браслет на жесткой основе с шарами-подвесками</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/bracelets/tproduct/851152725-827555118071-braslet-na-zhestkoi-osnove-s-sharami-pod</url>
-        <price>5780</price>
+        <price>3750</price>
         <oldprice>7500</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>5</categoryId>
@@ -3376,7 +3392,7 @@
         <name>Браслет на жесткой основе со стальными шарами L</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/bracelets/tproduct/851152725-280236491332-braslet-na-zhestkoi-osnove-so-stalnimi-s</url>
-        <price>5480</price>
+        <price>3750</price>
         <oldprice>7500</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>5</categoryId>
@@ -3392,7 +3408,7 @@
         <name>Браслет из стальных сфер medium</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/tproduct/851132158-885826519682-braslet-iz-stalnih-sfer-medium</url>
-        <price>4130</price>
+        <price>3540</price>
         <oldprice>5900</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>5</categoryId>
@@ -3527,7 +3543,7 @@
         <description>Украшения для тех, кто выбирает свободу быть собой</description>
         <collectionId>bracelets</collectionId>
       </offer>
-      <offer id="434811961562" available="false">
+      <offer id="434811961562" available="true">
         <name>Браслет из гладкой цепи с шаром на застежке</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/tproduct/851132158-434811961562-braslet-iz-gladkoi-tsepi-s-sharom-na-zas</url>
@@ -3547,7 +3563,7 @@
         <name>Браслет с провисом и подвесками 2.0</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/bracelets/tproduct/851152725-902297407341-braslet-s-provisom-i-podveskami-20</url>
-        <price>3390</price>
+        <price>2940</price>
         <oldprice>4900</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>5</categoryId>
@@ -3563,7 +3579,7 @@
         <name>Браслет с провисом и подвесками</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/bracelets/tproduct/851152725-304770504481-braslet-s-provisom-i-podveskami</url>
-        <price>3580</price>
+        <price>3430</price>
         <oldprice>4900</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>5</categoryId>
@@ -3579,7 +3595,7 @@
         <name>Браслет из жемчуга разного диаметра</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/bracelets/tproduct/851152725-292204361201-braslet-iz-zhemchuga-raznogo-diametra</url>
-        <price>5090</price>
+        <price>4830</price>
         <oldprice>6900</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>5</categoryId>
@@ -3595,7 +3611,7 @@
         <name>Браслет из темного жемчуга с кулоном</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/for-him/tproduct/851155651-775155481582-braslet-iz-temnogo-zhemchuga-s-kulonom</url>
-        <price>4540</price>
+        <price>4130</price>
         <oldprice>5900</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>5</categoryId>
@@ -3626,7 +3642,7 @@
         <name>Браслет из красного агата</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/tproduct/851132158-658347224043-braslet-iz-krasnogo-agata</url>
-        <price>5050</price>
+        <price>4760</price>
         <oldprice>6800</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>5</categoryId>
@@ -3642,7 +3658,7 @@
         <name>Браслет из оникса</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/tproduct/851132158-988704417102-braslet-iz-oniksa</url>
-        <price>5510</price>
+        <price>4080</price>
         <oldprice>6800</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>5</categoryId>
@@ -3658,7 +3674,7 @@
         <name>Браслет из оникса light</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/bracelets/tproduct/851152725-915317587842-braslet-iz-oniksa-light</url>
-        <price>4071</price>
+        <price>3540</price>
         <oldprice>5900</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>5</categoryId>
@@ -3674,7 +3690,7 @@
         <name>Браслет из массивной цепи</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/bracelets/tproduct/851152725-771660180231-braslet-iz-massivnoi-tsepi</url>
-        <price>5120</price>
+        <price>3600</price>
         <oldprice>7200</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>5</categoryId>
@@ -3690,7 +3706,7 @@
         <name>Браслет двойной со стальными сферами</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/bracelets/tproduct/851152725-625196158432-braslet-dvoinoi-so-stalnimi-sferami</url>
-        <price>5580</price>
+        <price>4100</price>
         <oldprice>8200</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>5</categoryId>
@@ -3722,7 +3738,7 @@
         <name>Браслет из стальных сфер light</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/tproduct/851132158-222486634962-braslet-iz-stalnih-sfer-light</url>
-        <price>3900</price>
+        <price>2950</price>
         <oldprice>5900</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>5</categoryId>
@@ -3738,7 +3754,7 @@
         <name>Браслет из стальных сфер и золотых дисков</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/tproduct/851132158-629311559852-braslet-iz-stalnih-sfer-i-zolotih-diskov</url>
-        <price>4080</price>
+        <price>3540</price>
         <oldprice>5900</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>5</categoryId>
@@ -3754,7 +3770,7 @@
         <name>Браслет из стальных дисков и золотых сфер</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/tproduct/851132158-441717330432-braslet-iz-stalnih-diskov-i-zolotih-sfer</url>
-        <price>3960</price>
+        <price>2950</price>
         <oldprice>5900</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>5</categoryId>
@@ -3770,7 +3786,7 @@
         <name>Биколорный браслет на карабине</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/tproduct/851132158-181704308322-bikolornii-braslet-na-karabine</url>
-        <price>4760</price>
+        <price>3400</price>
         <oldprice>6800</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>5</categoryId>
@@ -3802,7 +3818,7 @@
         <name>Браслет на жесткой основе со стальными дисками</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/bracelets/tproduct/851152725-350574063731-braslet-na-zhestkoi-osnove-so-stalnimi-d</url>
-        <price>5930</price>
+        <price>3750</price>
         <oldprice>7500</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>5</categoryId>
@@ -3834,7 +3850,7 @@
         <name>Сет из пяти колец</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/rings/tproduct/851154211-359456948402-set-iz-pyati-kolets</url>
-        <price>3900</price>
+        <price>3640</price>
         <oldprice>5200</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>6</categoryId>
@@ -3850,7 +3866,7 @@
         <name>Сет из трех колец</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/rings/tproduct/851154211-601971398292-set-iz-treh-kolets</url>
-        <price>4790</price>
+        <price>4560</price>
         <oldprice>5700</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>6</categoryId>
@@ -3866,7 +3882,8 @@
         <name>Сет из пяти узких колец</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/rings/tproduct/851154211-800527181292-set-iz-pyati-uzkih-kolets</url>
-        <price>5200</price>
+        <price>3120</price>
+        <oldprice>5200</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>6</categoryId>
         <picture>https://static.tildacdn.com/stor6465-3934-4533-a663-366237353537/1b2e3d0d1eaaefe2be9ee74952f52f3f.jpg</picture>
@@ -3881,7 +3898,7 @@
         <name>Сет из трех плоских колец</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/rings/tproduct/851154211-599563805842-set-iz-treh-ploskih-kolets</url>
-        <price>3880</price>
+        <price>3120</price>
         <oldprice>5200</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>6</categoryId>
@@ -3897,7 +3914,7 @@
         <name>Сет из пяти колец</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/rings/tproduct/851154211-911158704492-set-iz-pyati-kolets</url>
-        <price>4040</price>
+        <price>3640</price>
         <oldprice>5200</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>6</categoryId>
@@ -3913,7 +3930,7 @@
         <name>Сет из трех колец</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/rings/tproduct/851154211-764813067122-set-iz-treh-kolets</url>
-        <price>4790</price>
+        <price>4560</price>
         <oldprice>5700</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>6</categoryId>
@@ -3929,7 +3946,8 @@
         <name>Сет из пяти узких колец</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/rings/tproduct/851154211-718118918693-set-iz-pyati-uzkih-kolets</url>
-        <price>5200</price>
+        <price>3120</price>
+        <oldprice>5200</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>6</categoryId>
         <picture>https://static.tildacdn.com/stor3432-6261-4138-a134-393333323535/b41e94e004548b554bf310cbe587b8fb.jpg</picture>
@@ -3942,7 +3960,8 @@
         <name>Кольцо РЕСУРС</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/rings/tproduct/851154211-595293457011-koltso-resurs</url>
-        <price>5800</price>
+        <price>2900</price>
+        <oldprice>5800</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>6</categoryId>
         <picture>https://static.tildacdn.com/stor6238-3436-4264-b234-366333613461/28178909.png</picture>
@@ -3956,7 +3975,7 @@
         <name>Кафф-сфера</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/cuffs/tproduct/851151774-718515199402-kaff-sfera</url>
-        <price>3850</price>
+        <price>3050</price>
         <oldprice>6100</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>7</categoryId>
@@ -3972,7 +3991,7 @@
         <name>Кафф-сфера</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/cuffs/tproduct/851151774-741345299962-kaff-sfera</url>
-        <price>4090</price>
+        <price>3050</price>
         <oldprice>6100</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>7</categoryId>
@@ -3988,7 +4007,8 @@
         <name>Массивный кафф из стальных сфер</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/cuffs/tproduct/851151774-588538737503-massivnii-kaff-iz-stalnih-sfer</url>
-        <price>4600</price>
+        <price>3220</price>
+        <oldprice>4600</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>7</categoryId>
         <picture>https://static.tildacdn.com/stor6438-6630-4538-a130-626139613833/14f570a23fb0953cfda7e44d2ae88078.jpg</picture>
@@ -4003,7 +4023,8 @@
         <name>Кафф из стальных дисков</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/cuffs/tproduct/851151774-382765345303-kaff-iz-stalnih-diskov</url>
-        <price>4900</price>
+        <price>3920</price>
+        <oldprice>4900</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>7</categoryId>
         <picture>https://static.tildacdn.com/stor3137-6162-4539-a234-393736333261/63df8be8c4055eb55c2be67d6c5c8b31.jpg</picture>
@@ -4018,7 +4039,8 @@
         <name>Массивный кафф из стальных дисков</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/cuffs/tproduct/851151774-296863754973-massivnii-kaff-iz-stalnih-diskov</url>
-        <price>4900</price>
+        <price>4410</price>
+        <oldprice>4900</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>7</categoryId>
         <picture>https://static.tildacdn.com/stor6238-3035-4937-b236-623865313635/f447ef142c6174135592d871ea6421f5.jpg</picture>
@@ -4033,7 +4055,7 @@
         <name>Кафф из крупного жемчуга</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/cuffs/tproduct/851151774-678496234872-kaff-iz-krupnogo-zhemchuga</url>
-        <price>4760</price>
+        <price>3660</price>
         <oldprice>6100</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>7</categoryId>
@@ -4049,7 +4071,7 @@
         <name>Кафф из стальных сфер и дисков</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/cuffs/tproduct/851151774-762075366742-kaff-iz-stalnih-sfer-i-diskov</url>
-        <price>3270</price>
+        <price>3220</price>
         <oldprice>4600</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>7</categoryId>
@@ -4081,7 +4103,7 @@
         <name>Кафф из стальных сфер</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/cuffs/tproduct/851151774-141075251702-kaff-iz-stalnih-sfer</url>
-        <price>3270</price>
+        <price>3220</price>
         <oldprice>4600</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>7</categoryId>
@@ -4097,7 +4119,7 @@
         <name>Кафф из стальных сфер и золотых дисков</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/cuffs/tproduct/851151774-154422732312-kaff-iz-stalnih-sfer-i-zolotih-diskov</url>
-        <price>3270</price>
+        <price>3220</price>
         <oldprice>4600</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>7</categoryId>
@@ -4161,7 +4183,7 @@
         <name>Кафф из стальных сфер с двумя короткими подвесками</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/cuffs/tproduct/851151774-501307891152-kaff-iz-stalnih-sfer-s-dvumya-korotkimi</url>
-        <price>3520</price>
+        <price>3060</price>
         <oldprice>5100</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>7</categoryId>
@@ -4177,7 +4199,7 @@
         <name>Кафф из стальных сфер с двумя длинными подвесками</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/cuffs/tproduct/851151774-123910345532-kaff-iz-stalnih-sfer-s-dvumya-dlinnimi-p</url>
-        <price>3470</price>
+        <price>3060</price>
         <oldprice>5100</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>7</categoryId>
@@ -4193,7 +4215,7 @@
         <name>Кафф жемчужный с 2 короткими подвесками</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/cuffs/tproduct/851151774-314181197631-kaff-zhemchuzhnii-s-2-korotkimi-podveska</url>
-        <price>4030</price>
+        <price>3570</price>
         <oldprice>5100</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>7</categoryId>
@@ -4224,7 +4246,7 @@
         <name>Кафф с капельками</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/cuffs/tproduct/851151774-838658321052-kaff-s-kapelkami</url>
-        <price>3460</price>
+        <price>3360</price>
         <oldprice>4800</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>7</categoryId>
@@ -4240,7 +4262,8 @@
         <name>Массивный кафф с фианитом на подвеске</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/cuffs/tproduct/851151774-925948703723-massivnii-kaff-s-fianitom-na-podveske</url>
-        <price>6100</price>
+        <price>4880</price>
+        <oldprice>6100</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>7</categoryId>
         <picture>https://static.tildacdn.com/stor3832-3731-4237-b465-303330386163/79b4828c54a6863be28c267b26bca459.jpg</picture>
@@ -4271,7 +4294,7 @@
         <name>Анклет из цепи с алмазной гранью</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/tproduct/851132158-276497711013-anklet-iz-tsepi-s-almaznoi-granyu</url>
-        <price>2900</price>
+        <price>2880</price>
         <oldprice>3600</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>8</categoryId>
@@ -4287,7 +4310,7 @@
         <name>Анклет с провисом и подвесками</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/tproduct/851132158-462189081623-anklet-s-provisom-i-podveskami</url>
-        <price>4650</price>
+        <price>3360</price>
         <oldprice>5600</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>8</categoryId>
@@ -4303,7 +4326,7 @@
         <name>Анклет с провисом и двумя шильдиками</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/tproduct/851132158-457565907883-anklet-s-provisom-i-dvumya-shildikami</url>
-        <price>4250</price>
+        <price>3360</price>
         <oldprice>5600</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>8</categoryId>
@@ -4319,7 +4342,7 @@
         <name>Анклет из белого жемчуга с разделительными бусинами</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/tproduct/851132158-101431332943-anklet-iz-belogo-zhemchuga-s-razdeliteln</url>
-        <price>5100</price>
+        <price>4690</price>
         <oldprice>6700</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>8</categoryId>
@@ -4335,7 +4358,7 @@
         <name>Анклет из оникса</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/tproduct/851132158-918811040323-anklet-iz-oniksa</url>
-        <price>5100</price>
+        <price>3350</price>
         <oldprice>6700</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>8</categoryId>
@@ -4351,7 +4374,7 @@
         <name>Анклет из стальных дисков и золотых сфер</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/tproduct/851132158-565170151123-anklet-iz-stalnih-diskov-i-zolotih-sfer</url>
-        <price>5100</price>
+        <price>3350</price>
         <oldprice>6700</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>8</categoryId>
@@ -4365,7 +4388,7 @@
         <name>Анклет из стальных сфер light</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/tproduct/851132158-749503583683-anklet-iz-stalnih-sfer-light</url>
-        <price>5520</price>
+        <price>3350</price>
         <oldprice>6700</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>8</categoryId>
@@ -4379,7 +4402,7 @@
         <name>Анклет из темного жемчуга на карабине</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/tproduct/851132158-667601323743-anklet-iz-temnogo-zhemchuga-na-karabine</url>
-        <price>5100</price>
+        <price>4690</price>
         <oldprice>6700</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>8</categoryId>
@@ -4395,7 +4418,7 @@
         <name>Анклет из белого жемчуга на карабине</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/tproduct/851132158-864962555573-anklet-iz-belogo-zhemchuga-na-karabine</url>
-        <price>5100</price>
+        <price>3350</price>
         <oldprice>6700</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>8</categoryId>
@@ -4411,7 +4434,7 @@
         <name>Анклет из серого жемчуга с провисом</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/tproduct/851132158-387944355333-anklet-iz-serogo-zhemchuga-s-provisom</url>
-        <price>5600</price>
+        <price>3350</price>
         <oldprice>6700</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>8</categoryId>
@@ -4456,7 +4479,8 @@
         <name>Обвес с полой сферой на гладкой цепи и кистью</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/tproduct/851132158-880046546753-obves-s-poloi-sferoi-na-gladkoi-tsepi-i</url>
-        <price>4700</price>
+        <price>4230</price>
+        <oldprice>4700</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>9</categoryId>
         <picture>https://static.tildacdn.com/stor3066-6139-4464-b530-646566386538/a1a49937e7b8e0365b160abed260f08d.jpg</picture>
@@ -4468,7 +4492,8 @@
         <name>Обвес с фигурной подвеской и кожаным шнуром</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/tproduct/851132158-397886953053-obves-s-figurnoi-podveskoi-i-kozhanim-sh</url>
-        <price>4700</price>
+        <price>4230</price>
+        <oldprice>4700</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>9</categoryId>
         <picture>https://static.tildacdn.com/stor3861-3936-4862-a132-316133373130/852e41bcb9c8fab53cabb5312c2ba873.jpg</picture>
@@ -4480,7 +4505,8 @@
         <name>Обвес с нитью из стальных сфер и шаром на гладкой цепи</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/tproduct/851132158-664692794503-obves-s-nityu-iz-stalnih-sfer-i-sharom-n</url>
-        <price>6900</price>
+        <price>4830</price>
+        <oldprice>6900</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>9</categoryId>
         <picture>https://static.tildacdn.com/stor3538-6561-4362-b337-363637636663/b31c4bad1a42a49a9bc87a0f1f89913b.jpg</picture>
@@ -4492,7 +4518,8 @@
         <name>Обвес с полой сферой в стальном кольце</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/tproduct/851132158-538963582293-obves-s-poloi-sferoi-v-stalnom-koltse</url>
-        <price>4700</price>
+        <price>4230</price>
+        <oldprice>4700</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>9</categoryId>
         <picture>https://static.tildacdn.com/stor6366-6562-4362-a661-396137636436/2a33cdc30395ca5dcfeb01dd3c6ee915.jpg</picture>
@@ -4504,7 +4531,8 @@
         <name>Обвес с двумя сферами разного диаметра на гладкой цепи</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/tproduct/851132158-441661980903-obves-s-dvumya-sferami-raznogo-diametra</url>
-        <price>5500</price>
+        <price>4400</price>
+        <oldprice>5500</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>9</categoryId>
         <picture>https://static.tildacdn.com/stor3631-6635-4361-b631-383334633034/97082e24ed9ee90741bbebc5ec1711ad.jpg</picture>
@@ -4516,7 +4544,7 @@
         <name>Цепь с цилиндром и темной жемчужиной</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/for-him/tproduct/851155651-852904737132-tsep-s-tsilindrom-i-temnoi-zhemchuzhinoi</url>
-        <price>3460</price>
+        <price>3240</price>
         <oldprice>5400</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>10</categoryId>
@@ -4558,7 +4586,7 @@
         <name>Браслет из оникса light</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/for-him/tproduct/851155651-872975844522-braslet-iz-oniksa-light</url>
-        <price>4080</price>
+        <price>3540</price>
         <oldprice>5900</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>10</categoryId>
@@ -4574,7 +4602,7 @@
         <name>Серьги со звездой</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/for-him/tproduct/851155651-274821715642-sergi-so-zvezdoi</url>
-        <price>2810</price>
+        <price>2760</price>
         <oldprice>4600</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>10</categoryId>
@@ -4588,7 +4616,7 @@
         <name>Карабин на кожаном шнуре</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/for-him/tproduct/851155651-195884023632-karabin-na-kozhanom-shnure</url>
-        <price>3130</price>
+        <price>3080</price>
         <oldprice>4400</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>10</categoryId>
@@ -4652,7 +4680,8 @@
         <name>Сет из двух браслетов</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/sets/tproduct/851154945-141588700292-set-iz-dvuh-brasletov</url>
-        <price>9100</price>
+        <price>7280</price>
+        <oldprice>9100</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>10</categoryId>
         <picture>https://static.tildacdn.com/stor6236-6664-4161-b465-646530316661/77e12b0214e44c9223d03f7a45908a88.jpg</picture>
@@ -4667,7 +4696,7 @@
         <name>Цепь с цилиндром и жемчужиной</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/for-him/tproduct/851155651-251913336542-tsep-s-tsilindrom-i-zhemchuzhinoi</url>
-        <price>3410</price>
+        <price>3240</price>
         <oldprice>5400</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>10</categoryId>
@@ -4682,7 +4711,8 @@
         <name>Браслет из белого жемчуга с кулоном</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/for-him/tproduct/851155651-282055146972-braslet-iz-belogo-zhemchuga-s-kulonom</url>
-        <price>5900</price>
+        <price>4130</price>
+        <oldprice>5900</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>10</categoryId>
         <picture>https://static.tildacdn.com/stor6431-3637-4262-a664-393936396265/56650201.png</picture>
@@ -4697,7 +4727,8 @@
         <name>Сет из двух браслетов</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/sets/tproduct/851154945-404026050812-set-iz-dvuh-brasletov</url>
-        <price>9100</price>
+        <price>7280</price>
+        <oldprice>9100</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>10</categoryId>
         <picture>https://static.tildacdn.com/stor6462-6666-4661-b439-373037663839/4bd14a39714463e3b0c0cecc44e7a194.jpg</picture>
@@ -4725,7 +4756,7 @@
         <name>Кафф из стальных сфер</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/for-him/tproduct/851155651-873559296732-kaff-iz-stalnih-sfer</url>
-        <price>3270</price>
+        <price>3220</price>
         <oldprice>4600</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>10</categoryId>
@@ -4739,7 +4770,7 @@
         <name>Цепь с циркуляром</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/for-him/tproduct/851155651-421005525222-tsep-s-tsirkulyarom</url>
-        <price>5130</price>
+        <price>3900</price>
         <oldprice>7800</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>10</categoryId>
@@ -4754,7 +4785,8 @@
         <name>Браслет из розового жемчуга с кулоном</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/for-him/tproduct/851155651-403372450642-braslet-iz-rozovogo-zhemchuga-s-kulonom</url>
-        <price>5900</price>
+        <price>4130</price>
+        <oldprice>5900</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>10</categoryId>
         <picture>https://static.tildacdn.com/stor6565-6633-4231-a662-373931393630/91481425.png</picture>
@@ -4781,7 +4813,7 @@
         <name>Чокер из гладкой цепи с жемчужиной</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/for-him/tproduct/851155651-806611082152-choker-iz-gladkoi-tsepi-s-zhemchuzhinoi</url>
-        <price>4300</price>
+        <price>3100</price>
         <oldprice>6200</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>10</categoryId>
@@ -4824,7 +4856,7 @@
         <name>Чокер из стальных сфер</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/for-him/tproduct/851155651-240150948172-choker-iz-stalnih-sfer</url>
-        <price>6400</price>
+        <price>5640</price>
         <oldprice>9400</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>10</categoryId>
@@ -4837,7 +4869,7 @@
         <name>Чокер из стальных сфер</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/for-him/tproduct/851155651-812769246032-choker-iz-stalnih-sfer</url>
-        <price>7280</price>
+        <price>6420</price>
         <oldprice>10700</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>10</categoryId>
@@ -4853,7 +4885,7 @@
         <name>Цепь со стальным бруском и кулоном</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/for-him/tproduct/851155651-349048300852-tsep-so-stalnim-bruskom-i-kulonom</url>
-        <price>3460</price>
+        <price>3240</price>
         <oldprice>5400</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>10</categoryId>
@@ -4868,7 +4900,7 @@
         <name>Цепь со стальным бруском и жемчужиной</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/for-him/tproduct/851155651-870200232782-tsep-so-stalnim-bruskom-i-zhemchuzhinoi</url>
-        <price>3730</price>
+        <price>3240</price>
         <oldprice>5400</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>10</categoryId>
@@ -4898,7 +4930,7 @@
         <name>Браслет двойной со стальными сферами</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/for-him/tproduct/851155651-230821580482-braslet-dvoinoi-so-stalnimi-sferami</url>
-        <price>5580</price>
+        <price>4100</price>
         <oldprice>8200</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>10</categoryId>
@@ -4914,7 +4946,8 @@
         <name>Нить из темного жемчуга</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/for-him/tproduct/851155651-380130664242-nit-iz-temnogo-zhemchuga</url>
-        <price>12700</price>
+        <price>6350</price>
+        <oldprice>12700</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>10</categoryId>
         <picture>https://static.tildacdn.com/stor6165-6164-4331-b832-393139373263/53326503.png</picture>
@@ -4928,7 +4961,7 @@
         <name>Чокер из цепи с жемчужиной и асимметричной подвеской</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/for-him/tproduct/851155651-468430969522-choker-iz-gladkoi-tsepi-s-zhemchuzhinoi</url>
-        <price>4470</price>
+        <price>3100</price>
         <oldprice>6200</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>10</categoryId>
@@ -4999,7 +5032,7 @@
         <name>Цепь удлиненная со сквозным шаром</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/for-him/tproduct/851155651-860535965522-tsep-udlinennaya-so-skvoznim-sharom</url>
-        <price>2900</price>
+        <price>2760</price>
         <oldprice>4600</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>10</categoryId>
@@ -5013,7 +5046,7 @@
         <name>Цепь удлиненная с двумя кулонами</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/for-him/tproduct/851155651-525256154442-tsep-udlinennaya-s-dvumya-kulonami</url>
-        <price>3460</price>
+        <price>3240</price>
         <oldprice>5400</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>10</categoryId>
@@ -5029,7 +5062,7 @@
         <name>Кулон на замшевом шнурке</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/for-him/tproduct/851155651-712962127162-kulon-na-zamshevom-shnurke</url>
-        <price>4560</price>
+        <price>3400</price>
         <oldprice>6800</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>10</categoryId>
@@ -5044,7 +5077,7 @@
         <name>Браслет из крупной цепи на карабине</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/for-him/tproduct/851155651-988347786892-braslet-iz-krupnoi-tsepi-na-karabine</url>
-        <price>3590</price>
+        <price>3360</price>
         <oldprice>5600</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>10</categoryId>
@@ -5076,7 +5109,7 @@
         <name>Неваляшка на замшевом шнурке</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/for-him/tproduct/851155651-738035236332-nevalyashka-na-zamshevom-shnurke</url>
-        <price>6120</price>
+        <price>4250</price>
         <oldprice>8500</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>10</categoryId>
@@ -5092,7 +5125,7 @@
         <name>Браслет из стальных сфер и золотых дисков</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/for-him/tproduct/851155651-742432425192-braslet-iz-stalnih-sfer-i-zolotih-diskov</url>
-        <price>4080</price>
+        <price>3540</price>
         <oldprice>5900</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>10</categoryId>
@@ -5108,7 +5141,7 @@
         <name>Браслет из стальных дисков и золотых сфер</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/for-him/tproduct/851155651-876406615882-braslet-iz-stalnih-diskov-i-zolotih-sfer</url>
-        <price>3960</price>
+        <price>2950</price>
         <oldprice>5900</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>10</categoryId>
@@ -5218,7 +5251,7 @@
         <name>Браслет из стальных сфер light</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/for-him/tproduct/851155651-817540373963-braslet-iz-stalnih-sfer-light</url>
-        <price>3900</price>
+        <price>2950</price>
         <oldprice>5900</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>10</categoryId>
@@ -5234,7 +5267,8 @@
         <name>Серьги с жемчугом со стальными вставками</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/for-him/tproduct/851155651-293493784173-sergi-s-zhemchugom-so-stalnimi-vstavkami</url>
-        <price>5400</price>
+        <price>3240</price>
+        <oldprice>5400</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>10</categoryId>
         <picture>https://static.tildacdn.com/stor3862-3434-4139-a330-323662393662/aebd07c0aa58ae286e24a7216054baad.jpg</picture>
@@ -5249,7 +5283,7 @@
         <name>Серьги с рисовидным жемчугом</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/for-him/tproduct/851155651-474711829433-sergi-s-risovidnim-zhemchugom</url>
-        <price>3840</price>
+        <price>3010</price>
         <oldprice>4300</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>10</categoryId>
@@ -5265,7 +5299,7 @@
         <name>Цепь двойная со сквозной сферой</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/for-him/tproduct/851155651-980395085003-tsep-dvoinaya-so-skvoznoi-sferoi</url>
-        <price>4850</price>
+        <price>3240</price>
         <oldprice>5400</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>10</categoryId>
@@ -5296,7 +5330,7 @@
         <name>Серьги с подвеской из дымчатого кварца</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/for-him/tproduct/851155651-804306452293-sergi-s-podveskoi-iz-dimchatogo-kvartsa</url>
-        <price>3600</price>
+        <price>3100</price>
         <oldprice>6200</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>10</categoryId>
@@ -5342,7 +5376,8 @@
         <name>Сет из ботсванского агата</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/sets/tproduct/851154945-145037751222-set-iz-botsvanskogo-agata</url>
-        <price>21200</price>
+        <price>10600</price>
+        <oldprice>21200</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>11</categoryId>
         <picture>https://static.tildacdn.com/stor3438-3461-4237-a533-393362363333/7d5ebcb6f78de7787909cae2e1b3eb65.jpg</picture>
@@ -5356,7 +5391,8 @@
         <name>Сет из оникса</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/sets/tproduct/851154945-634531702032-set-iz-oniksa</url>
-        <price>13500</price>
+        <price>6750</price>
+        <oldprice>13500</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>11</categoryId>
         <picture>https://static.tildacdn.com/stor3136-3935-4862-a135-663264396132/67879654.png</picture>
@@ -5370,7 +5406,7 @@
         <name>Сет из трех цепей</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/sets/tproduct/851154945-771918449891-set-iz-treh-tsepei</url>
-        <price>6330</price>
+        <price>4650</price>
         <oldprice>9300</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>12</categoryId>
@@ -5385,7 +5421,7 @@
         <name>Сет из трех цепей 2.0</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/sets/tproduct/851154945-238749342292-set-iz-treh-tsepei-20</url>
-        <price>7220</price>
+        <price>4950</price>
         <oldprice>9900</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>12</categoryId>
@@ -5400,7 +5436,7 @@
         <name>Сет с тигровым глазом</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/sets/tproduct/851154945-868025184822-set-s-tigrovim-glazom</url>
-        <price>4200</price>
+        <price>3480</price>
         <oldprice>5800</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>12</categoryId>
@@ -5415,7 +5451,7 @@
         <name>Сет из гладкой цепи с кулоном и гвоздиком</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/sets/tproduct/851154945-353003225013-set-iz-gladkoi-tsepi-s-kulonom-i-gvozdik</url>
-        <price>8450</price>
+        <price>4950</price>
         <oldprice>9900</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>12</categoryId>
@@ -5430,7 +5466,8 @@
         <name>Сет из крупных жемчужных каффов</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/sets/tproduct/851154945-369782539772-set-iz-krupnih-zhemchuzhnih-kaffov</url>
-        <price>9800</price>
+        <price>6860</price>
+        <oldprice>9800</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>12</categoryId>
         <picture>https://static.tildacdn.com/stor3136-6364-4165-b831-356265306133/e156fb02403254aa84274dd454a20086.jpg</picture>
@@ -5444,7 +5481,8 @@
         <name>Сет стальной "Серьги + кафф"</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/sets/tproduct/851154945-371289915342-set-stalnoi-sergi-kaff</url>
-        <price>8700</price>
+        <price>6960</price>
+        <oldprice>8700</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>12</categoryId>
         <picture>https://static.tildacdn.com/stor3233-3231-4732-a539-303031666637/acf4f8df3ad9d5eaf26c30a0a3e808ae.jpg</picture>
@@ -5457,7 +5495,8 @@
         <name>Сет жемчужный "Серьги + кафф"</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/sets/tproduct/851154945-531369486522-set-zhemchuzhnii-sergi-kaff</url>
-        <price>7500</price>
+        <price>6000</price>
+        <oldprice>7500</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>12</categoryId>
         <picture>https://static.tildacdn.com/stor3432-3936-4365-a664-613962363861/10592458.jpg</picture>
@@ -5471,7 +5510,8 @@
         <name>Сет жемчужный "Серьги + кафф из крупного жемчуга"</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/sets/tproduct/851154945-803809671663-set-zhemchuzhnii-sergi-kaff-iz-krupnogo</url>
-        <price>8300</price>
+        <price>6640</price>
+        <oldprice>8300</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>12</categoryId>
         <picture>https://static.tildacdn.com/stor6464-6665-4531-b438-346261313039/7f990645fae8e2b8aa6353c686838c70.jpg</picture>
@@ -5485,7 +5525,8 @@
         <name>Сет из двух браслетов на жесткой основе</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/sets/tproduct/851154945-228215980422-set-iz-dvuh-brasletov-na-zhestkoi-osnove</url>
-        <price>12000</price>
+        <price>8400</price>
+        <oldprice>12000</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>12</categoryId>
         <picture>https://static.tildacdn.com/stor3830-6139-4462-a431-333565383932/31128887.png</picture>
@@ -5498,7 +5539,8 @@
         <name>Сет чокеров с барочным жемчугом и стальными шарами</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/sets/tproduct/851154945-778583254071-set-iz-chokera-s-barochnim-zhemchugom-i</url>
-        <price>38300</price>
+        <price>22980</price>
+        <oldprice>38300</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>12</categoryId>
         <picture>https://static.tildacdn.com/stor6535-6231-4563-a661-316638363238/26447224.png</picture>
@@ -5512,7 +5554,8 @@
         <name>Сет из двух браслетов на жесткой основе (M+L)</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/sets/tproduct/851154945-795138748612-set-iz-dvuh-brasletov-na-zhestkoi-osnove</url>
-        <price>12000</price>
+        <price>8400</price>
+        <oldprice>12000</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>12</categoryId>
         <picture>https://static.tildacdn.com/stor3364-3164-4661-b664-376232623663/65234626.jpg</picture>
@@ -5526,7 +5569,8 @@
         <name>Сет из каффов со стальными сферами</name>
         <vendor>РЕСУРС</vendor>
         <url>https://resursstore.com/catalog/sets/tproduct/851154945-334522543882-set-iz-kaffov-so-stalnimi-sferami</url>
-        <price>7400</price>
+        <price>5920</price>
+        <oldprice>7400</oldprice>
         <currencyId>RUB</currencyId>
         <categoryId>12</categoryId>
         <picture>https://static.tildacdn.com/stor3363-6163-4664-b035-303339666436/25091580.jpg</picture>
